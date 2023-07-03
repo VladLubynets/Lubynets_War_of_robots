@@ -1,4 +1,4 @@
-package Lubynets_G7_War_of_Robots;
+package Lubynets_G7_Exam.Lubynets_G7_War_of_Robots;
 
 public class Main {
     public static void main(String[] args) {
